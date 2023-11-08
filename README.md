@@ -2,9 +2,10 @@
 
 ## 0. OVERVIEW
 
-- This repository contains a code for building a container which logs War Thunder sate data.
+- This repository contains a code for building a container which logs [War Thunder](https://warthunder.com/en) sate data.
 - It is possible with a Python library `WarThunder`.
 - Log data will be saved as `write.csv`.
+- Prebuilt image is available on [docker hub](https://hub.docker.com/r/kestr3l/warthunder-logger).
 
 ## 1. AVAILABLE IMAGES & BUILD ORDERS
 
